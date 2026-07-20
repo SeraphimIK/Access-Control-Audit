@@ -1,0 +1,11 @@
+user_id,user_name,department,job_role,system,access_level,last_login_days_ago,mfa_enabled
+U001,J. Alvarez,Finance,Accountant,Finance ERP,Standard User,3,Yes
+U002,M. Chen,IT,System Administrator,Domain Controller,Administrator,1,Yes
+U003,R. Patel,Finance,Accountant,Finance ERP,Administrator,45,No
+U004,S. Nguyen,Marketing,Coordinator,Finance ERP,Standard User,90,No
+U005,T. Brooks,IT,Help Desk Tech,Domain Controller,Administrator,2,Yes
+U006,K. Owusu,HR,HR Generalist,HR System,Standard User,5,Yes
+U007,D. Kim,Sales,Sales Rep,Customer Database,Administrator,120,No
+U008,L. Ramirez,Finance,Former Employee,Finance ERP,Standard User,210,No
+U009,P. Singh,IT,Network Engineer,VPN Gateway,Administrator,4,Yes
+U010,A. Johnson,Marketing,Coordinator,Customer Database,Standard User,7,Yes
