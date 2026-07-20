@@ -1,5 +1,0 @@
-user_id,user_name,system,access_level,exceptions
-U003,R. Patel,Finance ERP,Administrator,Excessive privilege: admin access without IT role; Privileged account without MFA
-U004,S. Nguyen,Finance ERP,Standard User,Stale account: no login in 90 days
-U007,D. Kim,Customer Database,Administrator,Excessive privilege: admin access without IT role; Privileged account without MFA; Stale account: no login in 120 days
-U008,L. Ramirez,Finance ERP,Standard User,Stale account: no login in 210 days; Access not deprovisioned after termination
